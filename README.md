@@ -23,12 +23,12 @@ Every developer needs ai test generator — but existing tools are either too co
 
 ## Features
 
-- **Auto-generate unit tests** — Auto-generate unit tests
-- **Edge case detection** — Edge case detection
-- **Mock generation** — Mock generation
-- **Coverage analysis** — Coverage analysis
-- **Support for Go, Python, JavaScript** — Support for Go, Python, JavaScript
-- **Integration with testing frameworks** — Integration with testing frameworks
+- Auto-generate unit tests
+- Edge case detection
+- Mock generation
+- Coverage analysis
+- Support for Go, Python, JavaScript
+- Integration with testing frameworks
 
 ## Quick Start
 
